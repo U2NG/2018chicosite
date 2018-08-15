@@ -1,0 +1,6 @@
+---
+title: "index"
+author: "Reid Otsuji"
+date: "8/15/2018"
+output: html_document
+---
